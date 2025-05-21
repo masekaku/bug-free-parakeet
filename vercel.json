@@ -1,5 +1,6 @@
 {
   "routes": [
+    { "src": "/link-videy-part-2/22-5-25", "dest": "/22-5-252/index.html" },
     { "src": "/link-videy/22-5-25", "dest": "/22-5-25/index.html" },
     { "src": "/link-videy/23-5-25", "dest": "/23-5-25/index.html" },
     { "src": "/link-videy/24-5-25", "dest": "/24-5-25/index.html" },
