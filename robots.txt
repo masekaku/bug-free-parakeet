@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fadly168.my.id/sitemap.xml
+Sitemap: https://www.fadly168.my.id/sitemap.xml
